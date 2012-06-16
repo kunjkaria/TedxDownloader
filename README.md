@@ -3,8 +3,7 @@ TedxDownloader
 
 Download Tedx Videos easily
 
-###Author: Kunj Karia
-###      : Jay Rambhia
+###Author: Kunj Karia, Jay Rambhia
 
 ### How to install
     
